@@ -6,7 +6,7 @@
 
 # Author: Upkar Liddar (IBM)
 # Additional Authors:
-# <your Github username>
+# <RSDevelopper>
 
 # Input:
 # p, principe amount
